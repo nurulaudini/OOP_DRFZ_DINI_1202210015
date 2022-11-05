@@ -1,10 +1,10 @@
-package MODUL1;
-
 import java.util.Scanner;
 
 public class Server {
 
     public static void main(String[] args) {
+        System.out.println("menu makanan");
+        
         // TODO Create Database
 
         // TODO Create Menu
@@ -17,3 +17,5 @@ public class Server {
         // TODO Create User
 
         // Display Menu
+    }
+}

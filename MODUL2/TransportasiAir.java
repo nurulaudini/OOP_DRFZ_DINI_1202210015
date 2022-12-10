@@ -9,9 +9,10 @@ public class TransportasiAir {
     }
 
     public void informasi(){
-        System.out.println("Transportasi Air jenis %s dengan jumlah kursi sebanyak %d ditetapkan dengan biaya sebesar %f ",jenis,JumlahKursi,biaya);
+        System.out.println("Transportasi Air jenis "+jenis+" dengan jumlah kursi sebanyak "+JumlahKursi+" ditetapkan dengan biaya sebesar "+biaya);
     }
     public void Berlabuh(){
         
         System.out.println("Transportasi Air jenis %s sedang berlayar ");
     }
+}

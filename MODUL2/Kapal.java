@@ -3,12 +3,12 @@ public class extends TransportasiAir{
         protected String mesin;
 
         public Sampan(int JumlahKursi, int biaya, String mesin){
-            super(JumlahKursi,biaya)
-            this mesin = mesin
+            super(JumlahKursi,biaya);
+            this mesin = mesin;
         }
         @Override
         public void informasi(){
-            System.out.println("Transportasi Air jenis Kapal dengan kursi berjumlah "+jumlahKursi+" ditetapkan dengan biaya sebesar Rp: "+biaya);
+            System.out.println("Transportasi Air jenis Kapal dengan kursi berjumlah "+JumlahKursi+" ditetapkan dengan biaya sebesar Rp: "+biaya);
             
         }
 

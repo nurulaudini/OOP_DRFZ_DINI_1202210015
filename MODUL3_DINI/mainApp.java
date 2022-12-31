@@ -1,4 +1,4 @@
-package MODUL3;
+package MODUL3_DINI;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 

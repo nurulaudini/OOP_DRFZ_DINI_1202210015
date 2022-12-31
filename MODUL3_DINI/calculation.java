@@ -1,4 +1,4 @@
-package MODUL3;
+package MODUL3_DINI;
 
 public class calculation implements Runnable{
     public double radius;
